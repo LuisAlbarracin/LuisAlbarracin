@@ -1,5 +1,5 @@
 ### Hi there I´m  👋
-##### Soy estudiante de Ingenieria de Sistemas de la UFPS de Cúcuta
+##### Soy estudiante de Ingeniería de Sistemas de la UFPS de Cúcuta y tripulante de Misión TIC 2022
 
 
 <!--
