@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I´m  👋
+##### Soy estudiante de Ingenieria de Sistemas de la UFPS de Cúcuta
+
 
 <!--
 **LuisAlbarracin/LuisAlbarracin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
