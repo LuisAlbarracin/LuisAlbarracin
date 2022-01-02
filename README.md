@@ -1,5 +1,6 @@
 ### Hi there I´m  👋
-##### Soy estudiante de Ingeniería de Sistemas de la UFPS de Cúcuta y tripulante de Misión TIC 2021
+##### Soy estudiante de Ingeniería de Sistemas de la UFPS de Cúcuta y tripulante de Misión TIC 2022
+##### También formo parte del Semillero de Investigación SIAWEB de la UFPS
 
 
 <!--
